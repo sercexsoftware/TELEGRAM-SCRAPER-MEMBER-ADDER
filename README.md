@@ -1,4 +1,4 @@
-# TELEGRAM-SCRAPER-MEMBER-ADDER
+# TELEGRAM-SCRAPER-MEMBER-ADDER  
 <img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/52a10e9f-b0df-4327-a5ac-95809d2c8759" />
 
 The New Way to Grow on Telegram
